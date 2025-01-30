@@ -1,8 +1,12 @@
-**Funciones de Limpieza para DataFrames**
+# Índice de Archivos  
 
-Este repositorio contiene funciones diseñadas para la limpieza y estandarización de DataFrames, con un enfoque en la automatización de procesos comunes, tales como:
+Este repositorio contiene varias funciones enfocadas en la limpieza y procesamiento de datos. A continuación, se presenta un índice con los archivos disponibles:  
 
-*Identificación y eliminación de correos electrónicos inválidos.<br>
-*Normalización y limpieza de números telefónicos y cadenas de texto.<br>
-*División de DataFrames en partes iguales para su procesamiento.<br>
-*Estas herramientas están pensadas para optimizar flujos de trabajo y mejorar la calidad de los datos en análisis y modelado.
+- [def_Monterrey.ipynb](def_Monterrey.ipynb) – Funciones específicas para el procesamiento de datos en Monterrey.  
+- [def_correos.ipynb](def_correos.ipynb) – Limpieza y validación de correos electrónicos.  
+- [def_sms&mail.ipynb](def_sms&mail.ipynb) – Procesamiento combinado de SMS y correos electrónicos.  
+- [def_sms.ipynb](def_sms.ipynb) – Normalización y limpieza de mensajes SMS.  
+- [def_split_file.ipynb](def_split_file.ipynb) – Funciones para dividir DataFrames en partes.  
+- [descuentos_permanentes.ipynb](descuentos_permanentes.ipynb) – Análisis y gestión de descuentos permanentes.  
+
+Cada archivo contiene funciones diseñadas para mejorar la calidad y organización de los datos.  
